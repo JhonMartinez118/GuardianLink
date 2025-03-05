@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t7z5f8HqlJLpJfNeGjl58eDcugnMgpFRXn+uuQsDQag=",
+  "Source": "GuardianLinkAPI",
+  "BasePath": "_content/GuardianLinkAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
